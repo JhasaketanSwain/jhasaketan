@@ -415,7 +415,7 @@ header .navbar ul li a:hover {
 .thankyou {
     font-weight: bolder;
     color: white;
-    font-size: 10px;
+    font-size: 16px;
     display: flex;
     justify-content: center;
     align-items: center;
