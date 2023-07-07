@@ -728,11 +728,11 @@ header .navbar ul li a:hover {
 
 @media (max-width: 950px) {
    .container{
-    width: 90%;
+    width: 100%;
     padding: 30px 40px 40px 35px ;
   }
    .container .content .right-side{
-   width: 75%;
+   width: 100%;
    margin-left: 55px;
 }
 }
