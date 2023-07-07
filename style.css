@@ -709,7 +709,7 @@ header .navbar ul li a:hover {
   display: inline-block;
   margin-top: 12px;
 }
-.right-side .button input[type="button"]{
+.right-side .button input[type="submit"]{
   color: #fff;
   font-size: 20px;
   outline: none;
@@ -722,7 +722,7 @@ header .navbar ul li a:hover {
   cursor: pointer;
   transition: all 0.3s ease;
 }
-.button input[type="button"]:hover{
+.button input[type="submit"]:hover{
   background: #09ec09;
 }
 
