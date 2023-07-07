@@ -415,7 +415,7 @@ header .navbar ul li a:hover {
 .thankyou {
     font-weight: bolder;
     color: white;
-    font-size: 19px;
+    font-size: 26px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -595,6 +595,7 @@ header .navbar ul li a:hover {
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 .container {
     display: flex;
+    text-align: center;
     align-items: center;
     justify-content: center;
 }
