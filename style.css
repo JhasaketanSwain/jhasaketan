@@ -765,7 +765,7 @@ header .navbar ul li a:hover {
     left: 50%;
     top: 50%;
     z-index: 1;
-    margin: -256px 0 0 -206px;
+    margin: -256px 0 0 -106px;
 }
 
 #loader h1 {
