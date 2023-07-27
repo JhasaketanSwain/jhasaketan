@@ -31,10 +31,13 @@
       <span class="let4">d</span>  
       <span class="let5">i</span>  
       <span class="let6">n</span>  
-      <span class="let7">g</span>  
+      <span class="let7">g</span> 
+      <span class="let8">.</span> 
+      <span class="let9">.</span>  
+      <span class="let10">.</span>  
     </h1>
   </div>
-  <div id="myDiv" style="display:none; text-align: center;">
+  <div id="myDiv">
       <!-- header section starts  -->
     <header>
       <div class="user">
@@ -409,6 +412,16 @@
     </section>
     <!-- contact section ends -->
   </div>
+    <script>
+  var myVar;
+function myFunction() {
+  myVar = setTimeout(showPage, 9000);
+}
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}
+</script>
 </body>
 
 </html>
