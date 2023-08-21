@@ -760,33 +760,33 @@ header .navbar ul li a:hover {
 }
 }
 
-#loader {
+/* #loader {
     position: absolute;
     left: 50%;
     top: 50%;
     z-index: 1;
     margin: -256px 0 0 -80px;
-}
+} */
 
-#loader h1 {
+/* #loader h1 {
     margin: 0;
     padding: 0;
     font-family: "Arial Narrow", sans-serif;
     font-weight: bolder;
     font-size: 5em;
-    /* color: #05c3f2; */
-}
+    color: #05c3f2;
+} */
 
-#loader span {
+/* #loader span {
     position: relative;
     top: 1.63em;  
     display: inline-block;
     text-transform: uppercase;  
     opacity: 0;
     transform: rotateX(-90deg);
-}
+} */
 
-#loader {
+/* #loader {
     .let1 {
         animation: drop 1.2s ease-in-out infinite;
         animation-delay: 1.2s;
@@ -870,4 +870,4 @@ header .navbar ul li a:hover {
         opacity: 0;
         top: 6.94em
     }
-}
+} */
